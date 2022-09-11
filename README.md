@@ -4,6 +4,9 @@ The title of the project is Electronic Magic 8-ball.  Electronic Magic 8-ball is
 ## Flowchart
 ![Flowchart](https://user-images.githubusercontent.com/87352340/189533962-efaca94c-a948-44e9-9e54-77bd260e4bc6.jpg)
 
+## Circuit Schematic Diagram
+![Circuit Schematic Diagram](https://user-images.githubusercontent.com/87352340/189534037-d58ca299-c504-4d1b-a8a2-b72dfa765276.jpg)
+
 ## Demostration Video
 https://user-images.githubusercontent.com/87352340/189533897-d50df770-7a6d-4be0-bdb8-0457a5d1f80e.mp4
 
